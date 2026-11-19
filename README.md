@@ -10,8 +10,9 @@ Considering this substantial roadblock, the project refocused on processing and 
 -	Ansys Exporter: a python tool which converts a solved ansys result file (.rst) into a single ZIP which contains the 3D mesh, displacement, stress and strain results and model details. This tool needs Ansys to be run, however, the ZIP output is software independent.
 -	Results Dashboard: a browser application that opens the software independent ZIP. This dashboard displays an interactive stress, strain and displacement heatmaps. Individual parts can be shown and hidden, and two models can be compared side by side with a shared scale and standardised cup orientation and size.
 
-A local host of the dashboard has been captured under final-vid, displaying a simplified model and a slightly more complex model using realistic geometry, this includes a function which standardizes the size and direction of the cup for effective comparisons.
+A local host of the dashboard can be found following the link below, displaying a simplified model and a slightly more complex model using realistic geometry, this includes a function which standardizes the size and direction of the cup for effective comparisons.
 
+[Click Here](final-vid.mp4)
 
 
 
