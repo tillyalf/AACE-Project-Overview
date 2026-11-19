@@ -1,6 +1,6 @@
-# AACE-Project-Overview
+# Innovation Central Adelaide Placement
 
-This project ran from July to November 2026 and focused on investigating and developing a way to view and compare Finite Element Analysis (FEA) results for hip revision implants without access to the specialist software.
+This specific project was a collaboration between Innovation Central Adelaide and Adelaide Acetabular Cup Engineering Surgical. It ran from July to November 2026 and focused on investigating and developing a way to view and compare Finite Element Analysis (FEA) results for hip revision implants without access to the specialist software. 
 
 AACE Surgical provided ten 3D hip revision models that had been built and solved in Abaqus, which they no longer had access to. Flinders University did not have access to Abaqus either, but has access to an alternate software, Ansys. However, the input files (.inp) and the result files (.odb) can only be opened and run in Abaqus. The project attempted to recover these models, whilst simultaneously making FEA results easier for clinicians and researchers to review, minimising the potential for similar accessibility issues to reoccur later down the line.
 
